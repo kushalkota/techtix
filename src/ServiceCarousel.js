@@ -8,7 +8,7 @@ import img5 from "./client demands/IPHONE 13 PRO_prev_ui.png";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
-//Owl Carousel Settings
+
 const options = {
   margin: 30,
   responsiveClass: true,
