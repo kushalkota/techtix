@@ -13,7 +13,7 @@ export default function ContactUs() {
             <div className='contact-us-content'>
                 <div className='cu-card'>
                     <FontAwesomeIcon className="fas fa-phone" icon={faPhone} />
-                    <p>8618281530</p>
+                    <p>8884155877</p>
                     <p>8618823858</p>
                 </div>
                 <div className='cu-card'>
@@ -22,7 +22,7 @@ export default function ContactUs() {
                 </div>
                 <div className='cu-card'>
                     <FontAwesomeIcon className="fas fa-map-marked-alt" icon={faMapMarkedAlt} />
-                    <p>NO,1360,50ft main road,15th cross,1st stage,kumaraswamy layout, Bangalore-560111</p>
+                    <p>NO, 1360, 50ft Main road, 15th Cross, 1st Stage, Kumaraswamy Layout, Bangalore-560111</p>
                 </div>
             </div>
         </div>

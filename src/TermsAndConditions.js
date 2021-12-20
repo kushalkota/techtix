@@ -1,6 +1,4 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFacebookSquare , faWhatsappSquare , faInstagramSquare } from '@fortawesome/free-brands-svg-icons'
 import './TermsAndConditions.css'
 
 export default function TermsAndConditions() {
@@ -25,11 +23,6 @@ export default function TermsAndConditions() {
 
             </p>
             <br />
-            <div className="social-media">
-                <a href="" target="_blan"><FontAwesomeIcon className="fab fa-facebook-square" icon={faFacebookSquare} /></a>
-                <a href="" target="_blank"><FontAwesomeIcon className="fab fa-whatsapp-square" icon={faWhatsappSquare} /></a>
-                <a href="" target="_blank"><FontAwesomeIcon className="fab fa-instagram-square" icon={faInstagramSquare} /></a>
-            </div>
             <footer>Copyright © 2021. All rights reserved by Techtix</footer>
         </div>
     )

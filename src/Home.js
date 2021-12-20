@@ -16,7 +16,7 @@ export default function Home() {
                 TECHTIX is here to help you fix all your issues 
                 at your door step with in the same day
                 </p>
-                <a href='#maps-and-info'>BOOK NOW</a>
+                <a href='#contact-us'>BOOK NOW</a>
             </div>
             
         </div>

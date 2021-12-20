@@ -17,6 +17,7 @@
 .sc-title p{
     width: 50%;
     font-size: 1.5vw;
+    text-align: justify;
 }
 
 .owl-carousel {

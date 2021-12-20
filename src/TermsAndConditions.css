@@ -8,6 +8,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.terms-conditions p {
+    text-align: justify;
+}
+
 footer {
     width: 100%;
     padding: 2.5%;
@@ -28,12 +32,6 @@ footer {
     width: 50%;
 }
 
-.fab {
-    box-shadow: rgba(0, 0, 0, 0.4) 0px 20px 20px;
-    margin: 0 5px;
-    color: royalblue;
-    font-size: 3vw;
-}
 
 @media only screen and (max-width: 600px) {
     .terms-conditions {
@@ -66,10 +64,4 @@ footer {
         width: 90%;
     }
     
-    .fab {
-        box-shadow: rgba(0, 0, 0, 0.3) 0px 20px 20px;
-        margin: 0 5px;
-        color: royalblue;
-        font-size: 2em;
-    }
 }
