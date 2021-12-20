@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/techtix/static/css/main.ecf1a676.chunk.css",
-    "main.js": "/techtix/static/js/main.ad875ce2.chunk.js",
-    "main.js.map": "/techtix/static/js/main.ad875ce2.chunk.js.map",
+    "main.css": "/techtix/static/css/main.e34015e0.chunk.css",
+    "main.js": "/techtix/static/js/main.cf61eea2.chunk.js",
+    "main.js.map": "/techtix/static/js/main.cf61eea2.chunk.js.map",
     "runtime-main.js": "/techtix/static/js/runtime-main.be285cdc.js",
     "runtime-main.js.map": "/techtix/static/js/runtime-main.be285cdc.js.map",
     "static/css/2.a44c59e0.chunk.css": "/techtix/static/css/2.a44c59e0.chunk.css",
-    "static/js/2.3998ddf5.chunk.js": "/techtix/static/js/2.3998ddf5.chunk.js",
-    "static/js/2.3998ddf5.chunk.js.map": "/techtix/static/js/2.3998ddf5.chunk.js.map",
+    "static/js/2.54243da3.chunk.js": "/techtix/static/js/2.54243da3.chunk.js",
+    "static/js/2.54243da3.chunk.js.map": "/techtix/static/js/2.54243da3.chunk.js.map",
     "index.html": "/techtix/index.html",
     "static/css/2.a44c59e0.chunk.css.map": "/techtix/static/css/2.a44c59e0.chunk.css.map",
-    "static/css/main.ecf1a676.chunk.css.map": "/techtix/static/css/main.ecf1a676.chunk.css.map",
-    "static/js/2.3998ddf5.chunk.js.LICENSE.txt": "/techtix/static/js/2.3998ddf5.chunk.js.LICENSE.txt",
+    "static/css/main.e34015e0.chunk.css.map": "/techtix/static/css/main.e34015e0.chunk.css.map",
+    "static/js/2.54243da3.chunk.js.LICENSE.txt": "/techtix/static/js/2.54243da3.chunk.js.LICENSE.txt",
     "static/media/IPHONE 13 PRO_prev_ui.3a0de751.png": "/techtix/static/media/IPHONE 13 PRO_prev_ui.3a0de751.png",
     "static/media/MAC BOOK PRO.6568f8f4.png": "/techtix/static/media/MAC BOOK PRO.6568f8f4.png",
     "static/media/MI_prev_ui.c10ce402.png": "/techtix/static/media/MI_prev_ui.c10ce402.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.be285cdc.js",
     "static/css/2.a44c59e0.chunk.css",
-    "static/js/2.3998ddf5.chunk.js",
-    "static/css/main.ecf1a676.chunk.css",
-    "static/js/main.ad875ce2.chunk.js"
+    "static/js/2.54243da3.chunk.js",
+    "static/css/main.e34015e0.chunk.css",
+    "static/js/main.cf61eea2.chunk.js"
   ]
 }
