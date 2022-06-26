@@ -5,6 +5,8 @@ import img2 from "./client demands/OPPO _prev_ui.png";
 import img3 from "./client demands/ONE PLUS_prev_ui.png";
 import img4 from "./client demands/MI_prev_ui.png";
 import img5 from "./client demands/IPHONE 13 PRO_prev_ui.png";
+import img6 from "./client demands/SAMSUNG_prev_ui.png";
+import img7 from "./client demands/LG WING_prev_ui.png";
 import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
@@ -64,10 +66,10 @@ export default function ServiceCarousel() {
           <img src={img5} alt="iphone" />
         </div>
         <div className="item">
-          <img src={img1} alt="vivo" />
+          <img src={img6} alt="vivo" />
         </div>
         <div className="item">
-          <img src={img2} alt="oppo" />
+          <img src={img7} alt="oppo" />
         </div>
         <div className="item">
           <img src={img3} alt="oneplus" />
